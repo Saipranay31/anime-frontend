@@ -50,7 +50,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <div className="text-2xl font-bold bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
-            AnimeHub
+            ANISHIN
           </div>
 
           {/* Desktop Navigation */}
