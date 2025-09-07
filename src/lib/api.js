@@ -3,7 +3,7 @@ import axios from "axios";
 
 // Create Axios instance
 const api = axios.create({
-  baseURL: https://anime-backend-2.onrender.com/api,
+  baseURL: "https://anime-backend-2.onrender.com/api",
   withCredentials: true,
 });
 
